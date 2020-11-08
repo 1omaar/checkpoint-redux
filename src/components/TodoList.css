@@ -1,0 +1,7 @@
+.item-design {
+    width: 70% !important;
+    margin:0 15% !important;
+    display: flex;
+    justify-content: space-between;
+    
+}

@@ -1,0 +1,18 @@
+.add-container {
+    padding: 3% 25%;
+    background-color: rgb(27, 27, 27);
+}
+.add-design {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+.addbtn {
+    margin-top: 4%;
+}
+h1 {
+    margin-bottom: 3%;
+    color: white;
+}
